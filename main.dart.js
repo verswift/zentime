@@ -32646,10 +32646,10 @@ u=o.d
 t=C.h.cX(u,60)
 s=C.h.bY(u,60)
 r=C.h.bY(u,3600)
-u=L.or("Timer",n)
+u=L.or("Zentime",n)
 q=[N.bt]
 p=T.Sk(H.b([new F.is("HRS",C.d.h4(C.h.h(r),2,"0"),n),new F.is("MIN",C.d.h4(C.h.h(s),2,"0"),n),new F.is("SEC",C.d.h4(C.h.h(t),2,"0"),n)],q),C.fh,C.jJ,C.jL)
-return new S.n7(new M.o6(new E.lx(u,!0,new P.a5(1/0,56),n),new T.fS(C.ad,n,n,T.MF(H.b([p,M.lY(n,E.N_(L.or(o.e?"STOP":"START",n),!1,new F.Ek(o)),n,n,n,new V.ae(0,20,0,0),n,n)],q),C.hx,C.jK),n),n),"Timer",n)},
+return new S.n7(new M.o6(new E.lx(u,!0,new P.a5(1/0,56),n),new T.fS(C.ad,n,n,T.MF(H.b([p,M.lY(n,E.N_(L.or(o.e?"STOP":"START",n),!1,new F.Ek(o)),n,n,n,new V.ae(0,20,0,0),n,n)],q),C.hx,C.jK),n),n),"Zentime",n)},
 $aa3:function(){return[F.oz]}}
 F.El.prototype={
 $0:function(){++this.a.d},
